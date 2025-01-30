@@ -2,7 +2,7 @@
 
 ## Assumptions
 - Your mission is saved within a folder from the default location
-    - Windows: `C:\Program Files (x86)\Steam\steamapps\common\Sea Power\Sea Power_Data\StreamingAssets\user\missions\user_missions\Mission Folder`
+    - Windows: `C:\Program Files (x86)\Steam\steamapps\common\Sea Power\Sea Power_Data\StreamingAssets\user\missions\user_missions\A Mission`
     - It is recommended to create a separate folder per mission
 
 ## First Steps
@@ -10,7 +10,7 @@
 1. Open your mission in the mission editor
 2. Select the Mission Briefing Tab
 3. Select "Pick Assets Folder"
-4. Navigate to `\user\missiomns\user_missions\Mission Folder`
+4. Navigate to `\user\missiomns\user_missions\A Mission`
 5. Create a new folder here named `assets`
 7. Select the new folder and click Open
 
