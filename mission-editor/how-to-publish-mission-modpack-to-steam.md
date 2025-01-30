@@ -83,12 +83,10 @@ See [example](./example-modpack-missions/) for reference
 ## Upload Mod Folder to Steam Workshop
 
 1. Go to Steam > Library > Sea Power > Manage > Properties > Disable Steam Cloud
-```
 > [!IMPORTANT]
 > It is important to disable Steam Cloud, as we need to copy the mod folder temporarily into the user 
 > files that get backed up. If you dont, you will not be able to delete the files as they will keep 
 > syncing back into the user folders.
-```
 2. Go into Sea Power and navigate to the user missions folder under StreamingAssets ex: `C:\Program Files (x86)\Steam\steamapps\common\Sea Power\Sea Power_Data\StreamingAssets\user\missions`
 3. Copy your Mod Folder here
 4. Open Sea Power
