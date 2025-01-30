@@ -103,3 +103,5 @@ See [example](./example-modpack-missions/) for reference
 13. Re-enter mod manager and your item should appear by it's title and description we added to the _info.ini
 14. Check your mod and accept changes.
 15. When SP re-loads go into scenarios and you should see your campaign `The Missions`, with two missions when you open the campaign folder.
+16. When you are happy with the Mod, set it Public
+17. Remember to turn Steam Cloud back on
